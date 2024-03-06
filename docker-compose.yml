@@ -3,7 +3,7 @@ services:
   backend:
     image: dto80/se234-lab12
     ports:
-      - 8500:8080  
+      - 8000:8080  
 
   frontend:
     image: jasmxne/lab10
