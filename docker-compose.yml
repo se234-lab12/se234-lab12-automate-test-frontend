@@ -6,6 +6,6 @@ services:
       - 8500:8080  
 
   frontend:
-    image: 234-deploylab-frontend 
+    image: jasmxne/lab10
     ports:
       - 8086:80 
